@@ -5,7 +5,7 @@ Learn a Language fast with Audio-Files and Interlinear word-by-word translations
 
 
 ## Concept
-The Idea is to use this app along with or in line with the Birkenbihl-Method of Language-Learning.
+The Idea is to use this app along with or in line with the [Birkenbihl-Method of Language-Learning](http://www.vidactic.com/?page_id=868).
 
 Active Listening according to the Birkenbihl-method of language-learning:
 ![](https://i.postimg.cc/pTz84bZb/2020-08-28-to-ryanheise-birkenbihl-active-listening.png)
