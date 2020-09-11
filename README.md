@@ -11,7 +11,7 @@ Active Listening according to the Birkenbihl-method of language-learning:
 ![](https://i.postimg.cc/pTz84bZb/2020-08-28-to-ryanheise-birkenbihl-active-listening.png)
 
 ## How to use
-The idea is that **Text-Bundles** can be imported, which would contain the following files:
+The idea is that **Text-Bundles** can be imported into Interlinearis, which would contain the following files:
 - **config-file** (.json.txt)
 - **interlinear-text-file** as html (int.html)
 - **source-text** (.source-file)
